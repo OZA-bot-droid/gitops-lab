@@ -10,4 +10,4 @@ resources:
 images:
 - name: shanghai5/hello-app
   newName: shanghai5/hello-app
-  newTag: "2595803"
+  newTag: c2b051d
